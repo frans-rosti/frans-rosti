@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @frans-rosti
 - 👀 I’m interested in cyber security, online privacy, and cloud computing.
-- 🌱 I’m currently learning cyber security general practices, AWS and Python.
-- 📫 How to reach me: Discord - frans#0001
+- 🌱 I’m currently training in cybersecurity.
+- 📫 How to reach me: Discord - frans#0413
 
 <!---
 frans-rosti/frans-rosti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
